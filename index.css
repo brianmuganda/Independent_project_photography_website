@@ -1,0 +1,15 @@
+h1 {
+    border: 1px solid blue;
+    padding: 20px;
+}
+* {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+div {
+    margin: 20px;
+    background-color: blue;
+}
+ol {
+    color: blue;
+}
