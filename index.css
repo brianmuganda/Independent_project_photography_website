@@ -17,5 +17,7 @@ ol {
 #comment {
     background-color: black;
     color: white;
-    
+}
+.members {
+    font-style: italic;
 }
