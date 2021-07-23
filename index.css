@@ -14,3 +14,17 @@ div {
 ol {
     color: blue;
 }
+#comment {
+    background-color: black;
+    color: white;
+}
+.members {
+    font-style: italic;
+    color: tomato;
+}
+.bio {
+    font-weight: 900;
+}
+.name1 {
+    background-color: violet;
+}
